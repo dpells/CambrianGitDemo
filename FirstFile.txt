@@ -1,5 +1,9 @@
 # My name is Hafees Falana
 
+# I love programming; basically I do alot of self-learning from youtube videos and reading materials
+
+# I am new to Java though, but I am proficient in php , HTML; my Javascript is intermidiate though
+
 # I am looking forward to learning exciting things in the world of mobile application development
 
 # created on 9th September, 2021
