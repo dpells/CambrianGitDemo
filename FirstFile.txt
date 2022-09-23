@@ -65,6 +65,7 @@ Bla bla bla- Nitin
 
 Hi, My name is Parwinder Deep Kaur. I hope this course is really going to be more intersting in coming classes. Thanks
 
+# Hi my name is Vishal and I am exploring GITHUB. I am India 
 # Hello, I am Savitha. Excited to learn and create Android apps.
 
 
