@@ -28,6 +28,8 @@
 
 # :)
 
+
+
 #Hii This is Rushabh shah of May intake and love to do android app development .
 
 
@@ -119,3 +121,5 @@ Hi, my name is Khadija and I am looking to become a full stack mobile applicatio
 # Hey, My name is Shivam Bajaj, the Date is 18th September, 2022. 
 My favourite is Cat.
 I am looking forward to learn exciting things in the field of mobile applications this semester which in turn will help me in enhance my technical skills and give much exposure to Software World.
+
+#Hello, My name is Deepshika Ghale
